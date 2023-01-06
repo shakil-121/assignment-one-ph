@@ -31,5 +31,28 @@ font-family: 'Work Sans', sans-serif;
     color: #005FAC; 
     padding: 14px 22px; 
     border-radius: 5px; 
-    border: 0;
+    border: 0; 
+    font-weight:bolder;
+} 
+
+/* section-one style  */ 
+.section-one{ 
+    display: flex; 
+    align-items: center; 
+    margin-top: 100px;
+} 
+.right-title{ 
+    font-weight: 700; 
+    font-size: 40px; 
+    margin-bottom: 20px;
+} 
+.right-description{ 
+    line-height: 25px; 
+    margin-bottom: 15px;
+} 
+.bulet-point p{ 
+    line-height: 25px;
+} 
+.icon{ 
+    color: #16D887;
 }
