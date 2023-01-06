@@ -86,7 +86,7 @@ font-family: 'Work Sans', sans-serif;
 .section-three{ 
     background-image:
     linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(4, 52, 184, 0.918)),
-    url('images/watch.png');
+    url('./images/watch.png');
     background-repeat: no-repeat ; 
     background-size: cover; 
     height: 300px; 
