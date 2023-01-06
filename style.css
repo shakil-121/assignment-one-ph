@@ -1,0 +1,35 @@
+/* some common and global style section */ 
+*{ 
+margin: 0 auto; 
+font-family: 'Work Sans', sans-serif;
+} 
+
+/* header section style  */ 
+.header-banner{ 
+    background-image: url(./images/banner/banner3.png); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 110vh; 
+} 
+.header-text{ 
+    margin: 0px 200px; 
+    text-align: right;
+} 
+.header-title{  
+    padding-top: 216px; 
+    padding-bottom: 30px;
+    font-weight: 700; 
+    font-size: 55px; 
+    color: #ffff;
+} 
+.header-description{ 
+    color: #ffff; 
+    font-size: 16px; 
+    padding-bottom: 30px;
+} 
+.btn-primary{ 
+    color: #005FAC; 
+    padding: 14px 22px; 
+    border-radius: 5px; 
+    border: 0;
+}
