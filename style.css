@@ -103,4 +103,39 @@ font-family: 'Work Sans', sans-serif;
 } 
 .btn-three{ 
     margin-left: 40px;
+}  
+
+
+/* footer section  style */  
+.footer{ 
+    background-color: black; 
+    height: 365px;
+}
+.footer-section{ 
+    display: flex; 
+    color: #ffff;
+} 
+.footer-title{ 
+    font-size: 35px; 
+    margin-bottom: 20px;
+    padding-top: 50px;
+} 
+.footer-title-right{ 
+    font-size: 25px; 
+    margin-bottom: 20px;
+    padding-top: 50px;
+} 
+.emailbox{ 
+    padding: 13px 25px; 
+    border-radius: 10px; 
+    border: 0;
+} 
+.footer-btn{
+    background-color: rgb(233, 2, 90); 
+    color: #ffff; 
+    margin-top: 20px;
+} 
+.footer-icon{ 
+    font-size: 30px; 
+    border-radius: 50%;
 }
