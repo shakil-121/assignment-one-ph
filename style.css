@@ -106,6 +106,44 @@ font-family: 'Work Sans', sans-serif;
 }  
 
 
+/* extra section style  */ 
+.extra-section{ 
+    display: flex; 
+   
+}
+.extra{ 
+    background-color: #0a183d; 
+    height: 350px;
+    color: #ffff; 
+    padding-top: 50px;
+}  
+.extra-left{ 
+    /* border-right: 1px solid #ffff;  */
+    padding: 20px;
+}
+.extra-right{ 
+    line-height: 40px; 
+    background: #1c294a; 
+    border-radius: 15px; 
+    padding: 15px 30px; 
+    
+}
+.extra-title{ 
+    font-size: 35px; 
+    margin-bottom: 10px;
+}
+.extra-subtitle{ 
+ 
+    font-size: 20px; 
+    color: red; 
+    margin-bottom: 20px;
+} 
+.extra-description{ 
+margin-bottom: 15px;
+} 
+.extra-icon{ 
+    color: red;
+}
 /* footer section  style */  
 .footer{ 
     background-color: black; 
